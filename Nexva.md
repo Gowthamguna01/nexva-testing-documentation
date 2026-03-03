@@ -1,29 +1,12 @@
-# Login Button Not Working
+# nexva - Landing pages issues
 
-## Bug ID
-AUTH-001
 
-## Environment
-- Browser: Chrome 145
-- OS: Windows 10
-- URL: https://nexva.ai/login
+## Ai math solver. Inside Fileupload the dropdown selection not work. 
+<img width="1366" height="768" alt="Screenshot (520)" src="https://github.com/user-attachments/assets/6f4050c4-3394-405f-b8aa-005e6d42aa81" />
 
-## Steps to Reproduce
-1. Open login page
-2. Enter valid email
-3. Click Login
+Inside dashboard page/ chat-> Wish Morning: The greeting message does not change dynamically “Good Morning” .
 
-## Expected Result
-User should login successfully.
+The cursor-pointer class is not applied correctly.
 
-## Actual Result
-Nothing happens after clicking login.
 
-## Severity
-High
 
-## Status
-Open
-
-## Screenshot
-![Login Error](screenshots/login-error.png)

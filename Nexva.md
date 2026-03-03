@@ -17,7 +17,6 @@
 <img width="540" height="432" alt="Screenshot (523)" src="https://github.com/user-attachments/assets/8132fcdf-b0d4-4d3f-a7b7-0125371c92a8" />
 
 
-
 ### Chat with PDF → Try Sample Link:  Sample file link needed.
 
 
@@ -28,6 +27,7 @@
 
 
 ### Multiple Upload: Upload limit needs to be defined.
+<img width="893" height="479" alt="Screenshot (514)" src="https://github.com/user-attachments/assets/aa0b00db-6c2c-46ee-9c10-d306c7394762" />
 
 
 ### PDF Size Limit: Display maximum allowed file size.

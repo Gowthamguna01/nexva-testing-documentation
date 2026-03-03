@@ -2,12 +2,13 @@
 
 
 ### Ai math solver. Inside Fileupload the dropdown selection not work. 
-<img width="1366" height="768" alt="Screenshot (520)" src="https://github.com/user-attachments/assets/9f507a57-5907-45c2-a4c0-d744dc4bae2c" />
+<img width="882" height="496" alt="Screenshot (520)" src="https://github.com/user-attachments/assets/68441bd4-de70-4365-a017-8a040f4d25ad" />
 
 
 
 ### Inside dashboard page/ chat-> Wish Morning: The greeting message does not change dynamically “Good Morning” .
-   <img width="1366" height="768" alt="Screenshot (521)" src="https://github.com/user-attachments/assets/085b126e-5630-4fd1-b952-e90abb21cc75" />
+   <img width="1080" height="608" alt="Screenshot (521)" src="https://github.com/user-attachments/assets/43baec52-f235-4fd6-a828-5ade1d812020" />
+
 
 ### The cursor-pointer class is not applied correctly.
 

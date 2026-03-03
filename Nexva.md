@@ -13,7 +13,8 @@
 
 
 ### Image generation Anime → Image was not showing.
-<img width="1366" height="768" alt="Screenshot (523)" src="https://github.com/user-attachments/assets/cc7853b3-0949-45bb-b3c3-33057876063d" />
+<img width="540" height="432" alt="Screenshot (523)" src="https://github.com/user-attachments/assets/8132fcdf-b0d4-4d3f-a7b7-0125371c92a8" />
+
 
 
 ### Chat with PDF → Try Sample Link:  Sample file link needed.
